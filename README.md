@@ -46,8 +46,8 @@ Notes
 ### Evaluation
 	- Download datasets. We provide several examples in folder 'data/KITTI_2015' and 'data/FlyingThings3D'.
 	- Download trained models and put them in corresponding folder 'model/ResNetCorr' and 'model/SegStereo':
-		- ResNetCorr\_SRC\_pretrain.caffemodel
-		- SegStereo\_SRC\_pretrain.caffemodel
+		- ResNetCorr\_SRC\_pretrain.caffemodel: [Google Drive](https://drive.google.com/open?id=18s1WwVwo1T9i7Mfpy8ioV-ZdB3imHIO1)
+		- SegStereo\_SRC\_pretrain.caffemodel: [Google Drive](https://drive.google.com/open?id=1lIb2DzKSnbFq4V75QNYfJBsGrAxZTftq)
 
 ## Questions
 
