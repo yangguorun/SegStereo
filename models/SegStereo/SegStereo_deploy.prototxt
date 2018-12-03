@@ -4,8 +4,6 @@ input_dim: 3
 input_dim: 513
 input_dim: 1025
 
-## Segment Network ###
-
 layer {
   propagate_down: false
   name: "conv1_1_3x3_s2"
