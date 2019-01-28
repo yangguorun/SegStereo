@@ -1,10 +1,10 @@
 # SegStereo
 
-Caffe implementation of SegStereo and ResNetCorr models. 
+Caffe implementation of SegStereo and ResNetCorr models.
 
 ## Requirements
 
-This code is tested with Caffe, CUDA 8.0 and Ubuntu 16.04. 
+This code is tested with Caffe, CUDA 8.0 and Ubuntu 16.04.
 
 * Basic caffe implementation is from [Caffe](https://github.com/BVLC/caffe).
 * The correlation and correlation1d layers are from [FlowNet 2.0](https://github.com/lmb-freiburg/flownet2).
@@ -21,11 +21,12 @@ Our models require rectified stereo pairs. We provide several examples in `data`
 
 ## Models
 
-* SegStereo\_SRC\_pretrain.caffemodel: [Google Drive](https://drive.google.com/open?id=1lIb2DzKSnbFq4V75QNYfJBsGrAxZTftq)
 * ResNetCorr\_SRC\_pretrain.caffemodel: [Google Drive](https://drive.google.com/open?id=18s1WwVwo1T9i7Mfpy8ioV-ZdB3imHIO1)
-* SegStereo\_KITTI\_finetune.caffemodel: Google Drive
-* SegStereo\_pre\_corr\_finetune.caffemodel: Google Drive
+* SegStereo\_SRC\_pretrain.caffemodel: [Google Drive](https://drive.google.com/open?id=1lIb2DzKSnbFq4V75QNYfJBsGrAxZTftq)
+* SegStereo\_pre\_corr\_SRC\_pretrain.caffemodel: [Google Drive](https://drive.google.com/file/d/1SdurOp3OxXSQem0jeKVXVIh0FCLpFh9P/view?usp=sharing)
 * ResNetCorr\_KITTI\_finetune.caffemodel: Google Drive
+* SegStereo\_KITTI\_finetune.caffemodel: Google Drive
+* SegStereo\_pre\_corr\_KITTI\_finetune.caffemodel: [Google Drive](https://drive.google.com/file/d/1oOm4hTaKgJdScfhUVbhDJ0cAcuQU__Ru/view?usp=sharing)
 
 ## Evaluation
 
